@@ -1,0 +1,11 @@
+# config/_default/menus.toml
+
+[[main]]
+  name = "About me"
+  pageRef = "about"
+  weight = 10
+
+[[footer]]
+  name = "Privacy"
+  url = "https://github.com/yabamiah/yabamiah.github.io/blob/main/LICENSE"
+

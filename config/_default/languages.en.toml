@@ -1,0 +1,24 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Yabamiah | Blog"
+description = "Alo Peao"
+logo = "img/cat.png"
+
+[author]
+name = "Vinicius Mendes Martins"
+image = "img/icon.png"
+headline = "Software engineering student, FLOSS and Linux enthusiast"
+bio = "A little bit about me"
+links = [
+    { github = "https://github.com/yabamiah"},
+    { linkedin = "https://www.linkedin.com/in/vin%C3%ADcius-mendes-martins-050b0622a"},
+    { instagram = "https://www.instagram.com/yabamiah/" },
+    { telegram = "https://t.me/y4b4mi4h"},
+    { email = "mailto:viniciusmendes1019@gmail.com" }
+]
+
