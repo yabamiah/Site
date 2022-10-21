@@ -5,8 +5,8 @@ I build my website using the Hugo framework, the Blowfish theme and hosted it on
 
 ### To do
 - [x] About me
-- [] Projects
-- [] Blog 
+- [ ] Projects
+- [ ] Blog 
 
 ### To run locally
 1. Install Go and Hugo
