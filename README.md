@@ -1,6 +1,6 @@
 # My personal website 
-I build my website using the Hugo framework, the Blowfish theme and hosted it on Netlify.
----
+
+<p>I build my website using the Hugo framework, the Blowfish theme and hosted it on Netlify.</p>
 <p align="center"><img src="screenshot.png" width="800"></p>
 
 ### To do
